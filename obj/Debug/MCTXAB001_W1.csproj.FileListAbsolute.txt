@@ -1,0 +1,11 @@
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\bin\Debug\MCTXAB001_W1.exe.config
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\bin\Debug\MCTXAB001_W1.exe
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\bin\Debug\MCTXAB001_W1.pdb
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.csproj.AssemblyReference.cache
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.Form1.resources
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.Properties.Resources.resources
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.csproj.GenerateResource.cache
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.csproj.CoreCompileInputs.cache
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.exe
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.pdb
+C:\Users\Xabiso\OneDrive - University of Cape Town\MCTXAB001_W1\obj\Debug\MCTXAB001_W1.exe.config
